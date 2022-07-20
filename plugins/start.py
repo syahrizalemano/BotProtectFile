@@ -120,7 +120,7 @@ async def not_joined(client: Client, message: Message):
       )
     ]
     return:
-    buttons = [
+    buttons = (
         [
             InlineKeyboardButton(
                 "Join Channel",
