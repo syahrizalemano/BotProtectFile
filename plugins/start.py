@@ -118,15 +118,15 @@ async def not_joined(client: Client, message: Message):
                 url = client.invitelink)
         ]
       )
-    try:
-    buttons.append(
-        [
-            InlineKeyboardButton(
-                text = 'Join Group',
-                url = f"https://t.me/{client.invitelink2}"
-            )
-        ]
-    )
+    try:    
+        buttons.append(
+            [
+                InlineKeyboardButton(
+                    text = 'Join Group',
+                    url = f"https://t.me/{client.invitelink2}"
+                )
+            ]
+        )
     try:
         buttons.append(
             [
