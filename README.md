@@ -134,3 +134,5 @@ published by the Free Software Foundation, either version 3 of the License, or
 
    **Star this Repo if you Liked it ⭐⭐⭐**
 
+### 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗛𝗲𝗿𝗼𝗸𝘂
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/syahrizalemano/BotProtectFile)
