@@ -118,7 +118,6 @@ async def not_joined(client: Client, message: Message):
                 url = client.invitelink)
         ]
       )
-    ]
     return:
     buttons = (
         [
