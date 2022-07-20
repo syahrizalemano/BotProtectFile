@@ -117,7 +117,7 @@ async def not_joined(client: Client, message: Message):
                 "Join Channel",
                 url = client.invitelink)
         ]
-    ]
+    )
     try:
     buttons.append(
         [
