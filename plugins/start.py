@@ -113,13 +113,12 @@ async def start_command(client: Client, message: Message):
 async def not_joined(client: Client, message: Message):
     buttons = [
         [
-          (
             InlineKeyboardButton(
                 "Join Channel",
                 url = client.invitelink)
         ]
     )
-    try:
+    return:
     buttons.append(
         [
             InlineKeyboardButton(
